@@ -1,0 +1,5 @@
+﻿Issa Ortiz
+Business Issue 
+It’s been a while since I played pokemon competitively, and there are so many new Pokemon, stats, features, and attributes to keep track of. My objective is to streamline the user process of team building and determining what pokemon would be best suited based on stats and typing
+Dataset
+I am using the following dataset: https://www.kaggle.com/datasets/thiagoazen/all-pokemon-with-stats
